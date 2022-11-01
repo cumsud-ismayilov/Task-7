@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+  span{color: chartreuse;
+    font-size: 30px;
+    text-align: left;
+    font-family: 'Anton', sans-serif;
+    background-color: purple;
+
+
+  }
+
+
+
+
+h4{  color: bisque;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    font-family: 'Alfa Slab One', cursive;
+    background-color: black;
+
+}
